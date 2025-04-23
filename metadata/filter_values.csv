@@ -1,0 +1,5 @@
+Filter,Value,Description,Automatic Fail?
+Minimum detections,5,The minimum number of detections in an incident,Yes
+Noise rate,0.1,The maximum rate of noise pings (per second),No
+Tag:noise ping count ratio,0.5,The minimum ratio of tag and noise ping counts,No
+Tag - noise strength difference,3,The minimum difference in mean tag strength  - mean noise strength (dB),No
